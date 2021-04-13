@@ -3,10 +3,9 @@ new line
 Line from gui
 
 line four
-<<<<<<< HEAD
+
 line three
 
 line five
-=======
 line three
->>>>>>> 70d16a0fa8764dfd4436af82ecd1ce334a59ff2d
+
